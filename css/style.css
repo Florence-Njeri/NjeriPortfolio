@@ -584,6 +584,25 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: 0;
 }
 
+.elementor-widget-container{
+  margin: 4px
+}
+
+.elementor-icon-list-item{
+  margin-top: calc(8px/2);
+  margin-right: calc(-8px/2);
+  margin-left: calc(-8px/2);
+}
+
+.elementor-inline-item{
+  padding-bottom:calc(8px/2)
+}
+
+.elementor-icon-list-text{
+  font-family: "Roboto Mono",Sans-serif;
+  font-weight: 400
+}
+
 .company {
   display: block;
   margin-bottom: 20px;
